@@ -45,3 +45,7 @@ The user will be able to select the contact they wish to delete or modify. and e
 when a contact is selected and the ' delete ' button is clicked, the contact is ' deleted '
 
 if a contact is selected and the ' modify ' button is clicked, the input field with the contact's info typed will pop up and the user can then change the info and click ' modify ' to change the info.
+
+Trello
+
+https://trello.com/b/tOwx3543/project-2-social-organizer
