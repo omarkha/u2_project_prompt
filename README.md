@@ -1,5 +1,7 @@
 # **Project 2 : Social Organizer**
 
+![image](ss.png)
+
 ## **Idea**
 
 this app will organize the users social life by making a list of contacts a user can search, modify, add to and remove from.

@@ -1,0 +1,66 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: rgb(40, 40, 40);
+	font-family: barlow;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+.header {
+	background-color: rgb(40, 80, 160);
+	width: 80%;
+	margin: 21px auto;
+	padding: 21px 13px 21px 13px;
+	border: 2px solid rgb(215, 215, 215);
+	border-top-left-radius: 21px;
+}
+
+h1 {
+	color: #fff;
+}
+
+.main {
+	background-color: rgb(43, 45, 50);
+	width: 80%;
+	margin: 21px auto;
+	padding: 21px 13px 21px 13px;
+	border: 2px solid rgb(215, 215, 215);
+	border-bottom-right-radius: 21px;
+}
+
+input[type="text"] {
+	display: block;
+	margin: 5px auto;
+	width: 233px;
+	height: 21px;
+}
+
+label {
+	color: rgb(215, 215, 215);
+}
+
+.inputs {
+	width: 38%;
+	padding: 21px 13px 21px 13px;
+}
+
+button {
+	margin-top: 21px;
+	height: 30px;
+	background-color: rgb(255, 63, 40);
+	border: none;
+	color: #fff;
+	border-radius: 3px;
+}
+
+button:active {
+	background-color: rgb(255, 40, 25);
+}
